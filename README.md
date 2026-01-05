@@ -1,4 +1,4 @@
-# REACT REDUX practice
+# MERN Inventory System
 
 > Description
 > Complex MERN stack Inventory System.
